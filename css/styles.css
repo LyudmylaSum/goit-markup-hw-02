@@ -65,10 +65,10 @@ color: #2e2f42;
     color: #fff;
     cursor: pointer;
 }
-.page-button-class :hover{
+.page-button-class:hover{
     background-color: #404BBF
 }
-.page-button-class :focus{
+.page-button-class:focus{
     background-color: #404BBF
 }
 
