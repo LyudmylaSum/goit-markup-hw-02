@@ -67,7 +67,7 @@ color: #2e2f42;
 }
 .page-button :hover
 .page-button :focus{
-    text-transform: capitalize;
+    background-color: #404BBF
 }
 
 
@@ -122,10 +122,13 @@ color: #2e2f42;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     color: #2e2f42;
 }
+.portfolio-name{
+    text-transform: capitalize;
+}
 .portfolio-text{
+    text-transform: capitalize;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
