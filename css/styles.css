@@ -65,13 +65,11 @@ color: #2e2f42;
     color: #fff;
     cursor: pointer;
 }
-.page-title .page-button :hover{
-    background-color: #404bbf;
+.page-button :hover
+.page-button :focus{
+    text-transform: capitalize;
 }
 
-.page-title .page-button :focus{
-    background-color: #404bbf;
-}
 
 .skills-name{
     font-weight: 500;
@@ -120,11 +118,11 @@ color: #2e2f42;
     color: #2e2f42;
 }
 .portfolio-name{
-    text-transform: capitalize;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .portfolio-text{
